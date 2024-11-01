@@ -1,0 +1,7 @@
+.sv_cust_hd {
+    display: none;
+}
+
+.woocommerce-shipping-destination, .cc {
+    display: none;
+}
